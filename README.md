@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JA090
+- 📫 janet.aisbett@gmail.com
+- Got a bit of R code to store here
